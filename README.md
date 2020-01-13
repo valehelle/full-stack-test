@@ -48,7 +48,7 @@ Thank you for your interest in applying to become, please complete the Assessmen
 
 ### Choose a problem
 **Problem 1**
-Your sales team has a list of leads that they want to send a sms blast out. They need a simple app that will the read a csv list, remove it's duplicates and sends out a sms to each lead within the list
+Your sales team has a list of leads that they want to send a sms blast out. They need a simple app that will the read a csv list, remove it's duplicates and sends out a sms with the message "Hello World" to each lead within the list
 * Use https://www.twilio.com/try-twilio to send sms blasts out
 * Download the csv file [here](https://become-my.s3-ap-southeast-1.amazonaws.com/developer-test-data/test-numbers.csv)
 
