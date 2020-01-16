@@ -13,7 +13,7 @@ config :become,
 # Configures the endpoint
 config :become, BecomeWeb.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "vs8CyxFBfxDvlXACDHQp1kw2BntLQ34hiTNYuG9EAwFG9LUPVstyGU2edZQMTJuj",
+  secret_key_base: "1vkrXj6/wLsVIyKYENfNM/yPQg2UfInpBOnvI4OV5dNIQ3cehaVAfnWOfKoUY5zL",
   render_errors: [view: BecomeWeb.ErrorView, accepts: ~w(html json)],
   pubsub: [name: Become.PubSub, adapter: Phoenix.PubSub.PG2]
 

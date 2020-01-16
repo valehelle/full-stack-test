@@ -40,7 +40,7 @@ defmodule BecomeWeb.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_become_key",
-    signing_salt: "iDEY8yBI"
+    signing_salt: "Ou0FC6Rh"
 
   plug BecomeWeb.Router
 end
